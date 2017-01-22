@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGO Mini Mobile", "YGO Mini Mobile.csproj", "{3ABF0211-C96B-D6A5-423C-5B9A855C3103}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YGO Mini Mobile.Editor", "YGO Mini Mobile.Editor.csproj", "{9C69F6E6-6434-1B44-4128-4738B4A002B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3ABF0211-C96B-D6A5-423C-5B9A855C3103}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ABF0211-C96B-D6A5-423C-5B9A855C3103}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ABF0211-C96B-D6A5-423C-5B9A855C3103}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ABF0211-C96B-D6A5-423C-5B9A855C3103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C69F6E6-6434-1B44-4128-4738B4A002B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C69F6E6-6434-1B44-4128-4738B4A002B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C69F6E6-6434-1B44-4128-4738B4A002B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C69F6E6-6434-1B44-4128-4738B4A002B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
